@@ -2,6 +2,8 @@
 
 This module encrypts a file with AES and CBC mode using the __cryptography__ library in Python. The option to encrypt the keys with RSA is also included.
 
+> NOTE: The RSA key encryption is still under development and is not fully functioning.
+
 ## Installation
 
 1. Clone the repository using this [link](https://github.com/beachcoder25/378PartnerRepo.git).
